@@ -4,7 +4,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
-String apiKey = 'AIzaSyAnPZwviAk7_pC3ZTgZHA_QLe8nSsdMlIs';
+String apiKey = '';
 
 User? currentFirebaseUser;
 
